@@ -4,3 +4,4 @@
 - Where Im from: Long Island, NY
 - Fav food: Shake Shake burgers
 - Hobby: Coding
+- Favorite Color: Red
