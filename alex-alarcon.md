@@ -1,7 +1,10 @@
 #My Bio
 
-- Name: Alex Alarcon
-- Where Im from: Long Island, NY
-- Fav food: Shake Shake burgers
-- Hobby: Coding
-- Favorite Color: Red
+**Name**
+Alex Alarcon
+
+**Location**
+New York, NY
+
+**Hobbies**
+Coding, working out, music
